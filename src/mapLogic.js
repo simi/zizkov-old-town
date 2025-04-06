@@ -49,7 +49,7 @@ export function setupMapLogic(map) {
   });
 
   const zizkovIcon = L.icon({
-    iconUrl: '/marker-mini.png',  // Path relative to the public folder
+    iconUrl: 'marker-mini.png',  // Path relative to the public folder
     iconSize: [48, 48],             // Reasonable display size for 128x128 image
     iconAnchor: [24, 48],           // Point at bottom center
     popupAnchor: [0, -48],          // Popup appears above the marker

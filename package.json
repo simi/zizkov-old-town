@@ -1,0 +1,20 @@
+{
+  "name": "zizkov-old-town",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "esri-leaflet": "^3.0.14",
+    "leaflet": "^1.9.4",
+    "proj4": "^2.15.0",
+    "proj4leaflet": "^1.0.2"
+  }
+}
